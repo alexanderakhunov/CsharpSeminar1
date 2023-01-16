@@ -3,3 +3,4 @@ Console.Write("Введите число: "); // Вывод в консоль с
 int number = Convert.ToInt32(Console.ReadLine()); // int.Parse || Convert.ToInt32()
 int sqr = number * number;
 System.Console.WriteLine($"Квадрат числ: {sqr}");
+// delaem commit
